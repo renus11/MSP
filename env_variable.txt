@@ -1,1 +1,6 @@
 ENV_PROPS_PATH_NAME
+ export ENV_PROPS_PATH_NAME=/Users/tkmabp3/kohls/git_root/msp-api-props/resources/environment.properties
+ 
+ To run jar file, below is the command but before that you need to set ENV_PROPS_PATH_NAME
+ java -jar /Users/tkmabp3/kohls/git_root/redis-poc/target/msp-api-1.0-SNAPSHOT.jar
+ 
